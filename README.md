@@ -6,15 +6,16 @@
 
 * <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> I'm from Brazil
 🔭 I'm currently working at SescSP as Technical Support Analyst I
+
 🎓* <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> 
  I'm diving into the data science world
-🌱 I'm currently learning @Javascript, @NodeJS, @ReactJS, @Typescript and @Python
-📫 You can reach me at: 
- LinkedIn https://www.linkedin.com/in/paulofranciscon/
+ 
+🌱 I'm currently learning @javascript, @nodejs, @reactjs, @typescript and @python
 
-    E-mail: paulo.franciscon@gmail.com
+📫 You can reach me at: paulo.franciscon@gmail.com
 
-    Twitter: @PaulFranciscon
+
+
 
 
 <!--
