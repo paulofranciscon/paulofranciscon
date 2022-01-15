@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulofranciscon/)](https://www.linkedin.com/in/paulofranciscon/)
 
 
-* <img width="16" src="https://en.wikipedia.org/wiki/Brazil#/media/File:Flag_of_Brazil.svg" alt="Brazil" />  I'm from Brazil
+*     I'm from Brazil
 
 * 🔭 I'm currently working as Technical Support Analyst I
 
