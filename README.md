@@ -2,8 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulofranciscon/)](https://www.linkedin.com/in/paulofranciscon/)
 
-
-*     I'm from Brazil
 * 🔭 I'm currently working as Technical Support Analyst I
 
 * <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" />  I'm diving into the world of web development and data science
