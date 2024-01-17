@@ -6,6 +6,6 @@
 
 * <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" />  I'm diving into the world of development.
  
-* 🌱 I'm currently learning @javascript, @nodejs, @reactjs, @nextjs, @typescript, @java and @python
+* 🌱 I'm currently learning @javascript, @nodejs, @reactjs, @nextjs, @typescript and @python
 
 * 📫 You can reach me at: paulo.franciscon@gmail.com
