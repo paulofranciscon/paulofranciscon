@@ -6,6 +6,6 @@
 
 * 🌱 I'm diving into the world of programming to change careers and for my professional improvement.
  
-*  <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> <img width="16" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="" /> I'm currently learning @javascript and @python
+*  <img width="18" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> <img width="18" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="" /> <img width="18" src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" alt=""> I'm currently learning @javascript and @python
 
 * 📫 You can reach me at: paulo.franciscon@gmail.com
